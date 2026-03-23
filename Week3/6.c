@@ -2,7 +2,6 @@
 
 int main()
 {
-	const float PI = 3.141592;
 	float radius = 10.0;
 	float area;
 
