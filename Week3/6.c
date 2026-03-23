@@ -10,5 +10,4 @@ int main()
 	printf("circle : %f", area);
 
 	return 0;
-
 }
