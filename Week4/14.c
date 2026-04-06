@@ -8,7 +8,7 @@ int main()
 	scanf("%lf", &m);
 	printf("속도 : ");
 	scanf("%lf", &v);
-	E = 0.5 * m * v * v;
+	E = 0.5 * m * pow(v,2);
 	printf("운동에너지 : %lf", E);
 
 	return 0;
