@@ -1,3 +1,2 @@
-﻿  6.c
-C:\Users\user\source\repos\ClanguageClass_GNU\Week6\6.c(7,20): warning C4101: 'month' :참조되지 않은 지역 변수입니다.
-  ClanguageClass_GNU.vcxproj -> C:\Users\user\Source\Repos\ClanguageClass_GNU\x64\Debug\ClanguageClass_GNU.exe
+﻿  8.c
+  ClanguageClass_GNU.vcxproj -> C:\Users\sksjd\Source\Repos\ClanguageClass_GNU\x64\Debug\ClanguageClass_GNU.exe
