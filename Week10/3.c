@@ -3,14 +3,14 @@
 
 int main()
 {
-	int i, j, sum = 0;
+	int i, j, pac = 1;
 	printf("어디까지 계산할까요 : ");
 	scanf("%d", &j);
 
 	for (i = 1; i <= j; i++)
 	{
-		sum += i;
+		pac *= i;
 	}
-	printf("1부터 %d까지의 정수의 합 : %d", j, sum);
+	printf("1부터 %d까지의 정수의 팩토리얼 : %d", j, pac);
 	return 0;
 }
